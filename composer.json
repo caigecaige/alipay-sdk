@@ -1,6 +1,6 @@
 {
 	"name": "caigecaige/alipay-sdk",
-	"version": "1.0.4",
+	"version": "1.0.0",
 	"description": "支付宝SDK，来源官方SDK",
 	"keywords": ["alipay", "PHP", "SDK", "支付宝"],
 	"license": "MIT",
